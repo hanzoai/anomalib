@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="anomalib" width="880"></p>
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/open-edge-platform/anomalib/main/docs/source/_static/images/logos/anomalib-wide-blue.png" width="600px" alt="Anomalib Logo - A deep learning library for anomaly detection">
