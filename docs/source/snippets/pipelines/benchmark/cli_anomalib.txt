@@ -1,2 +1,0 @@
-# Using Anomalib entrypoint
-anomalib benchmark --config tools/experimental/benchmarking/sample.yaml
